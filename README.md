@@ -46,8 +46,8 @@ This project explores **high-order constellations** in digital communication sys
 ---
 
 ## 🤝 Contributors
-- Panagiotis Karvounaris
-- Pigi Papanikolaou
+- [Panagiotis Karvounaris](https://github.com/karvounaris)
+- [Pigi Papanikolaou](https://github.com/pigipapa)
 
 ## 📬 Contact
 For questions or collaboration, feel free to reach out via GitHub.
